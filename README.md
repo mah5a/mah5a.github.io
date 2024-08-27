@@ -71,7 +71,7 @@
   Here are a few photos from a trip to italy I took last year
   <div class="row">
     <div class="column">
-      <img src="images/bologna.jpg" alt="Santuario Madonna di San Luca,Bologna,Italy" style="height:100%">
+      <img src="images/Bologna.jpg" alt="Santuario Madonna di San Luca,Bologna,Italy" style="height:100%">
     </div>
     <div class="column">
       <img src="images/vienna.jpg" alt="The Austrian Parliament,Vienna, Austia" style="height:100%">
