@@ -77,7 +77,7 @@
       <img src="images/vienna.jpg" alt="The Austrian Parliament,Vienna, Austia" style="height:100%">
     </div>
     <div class="column">
-      <img src="images/vapiano.jpg" alt="Vapiano Restaurant" style="height:100%">
+      <img src="images/vapiano.JPG" alt="Vapiano Restaurant" style="height:100%">
     </div>
   </div>
   <div></div>
