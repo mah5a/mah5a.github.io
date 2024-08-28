@@ -43,7 +43,7 @@
 </head>
 <body>
   <h1>Welcome to my page!</h1>
-  <img src="./images/selfie.jpg" width="300px">
+  <img src="./images/selfie.JPG" width="300px">
   <h3>About me</h3>
   <p>Mahsa (Zara) - Ph.D. in Data Science
 Passionate About: Python, Machine Learning, and the Power of Data</p>
