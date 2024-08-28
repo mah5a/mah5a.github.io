@@ -297,6 +297,6 @@ Passionate About: Python, Machine Learning, and the Power of Data</p>
     </ul>
   </div>
   </div>
-  <h2>Footnotes</h2>
-  <p id="footer">1. This was actually a minivan that I named Debora. Maybe not my dream car, but I loved her nonetheless.</p>
+
+  
   </body>
