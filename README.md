@@ -44,23 +44,23 @@
 <body>
   <h1>Welcome to my page!</h1>
   <img src="./images/selfie.jpg" width="300px">
-  <h2>About me</h2>
-  <p>My name is Mahsa. I own a Ph.D. in Data Science. I'm interested in all things Python & Machine Learning!</p>
+  <h3>About me</h3>
+  <p>Mahsa (Zara) - Ph.D. in Data Science
+Passionate About: Python, Machine Learning, and the Power of Data</p>
   <p>Here is a link to my linkedin: <a href="https://www.linkedin.com/in/zahrakaramimehr/">LinkedIn</a></p>
-  <p> Around my first year of guidance school, I started to work with with my own PC and this influenced me to study computer at teh university and then my interest in statistics and analysis drove me towards Data Science</p>
+  <p>I’ve been captivated by technology since the first year of guidance school when I got my hands on my very own PC. This early experience sparked my journey into the world of computers, leading me to pursue a degree in Computer Science at university. My growing interest in statistics and data analysis naturally guided me towards a career in Data Science, where I now blend creativity with analytical precision to unlock insights from data.</p>
   <h3>Hobbies</h3>
-  <p>I don't code 24/7. I love doing all sorts of active things; swimming, hike, biking and Yoga are my favorites.  In addition to sports, I am a board game enthusiast specifically Backgammon. </p>
+  <p>When I'm not immersed in coding or data analysis, I love to stay active. You'll often find me swimming, hiking, biking, or practicing yoga. I also have a strategic side—I'm an avid board game enthusiast, with Backgammon being my favorite. These activities keep my mind sharp and my creativity flowing. </p>
   <h3>Fun Facts</h3>
   <ul class="fun-facts">
-    <li> Originally wanted to become an anmimator ended up with Data... <a href="#footer"><sup>1</sup></a></li>
-    <li>My actual name is Zara</li>
-    <li>Never had been on a plane until college</li>
-    <li>Dunkin Donuts coffee is better than Starbucks</li>
-    <li>A favorite book series of mine is <i>Harry Potter</i></li>
-    <li>The band that I loved the most as a teenager was <i> Backstreet Boys</i></li>
+    <li> Almost an Animator: I originally wanted to become an animator, but my passion for data won out in the end.</li>
+    <li>Name Game: My actual name is Zara, though most people know me as Mahsa.</li>
+    <li>First Flight: I never set foot on a plane until I started college.</li>
+    <li>Literary Love: I’m a huge fan of the <i>Harry Potter</i>series.</li>
+    <li>Teenage Tunes: <i> Backstreet Boys</i> were my absolute favorite band growing up.</li>
   </ul>
   <h2>Social Media</h2>
-    I am not really active on social media but in case you wan tto take a look at them:
+    I am not really active on social media but in case you want to take a look at them:
   <br/>
   <ul class="socials">
     <li class="social instagram"><b>Instagram: </b><a href="https://www.instagram.com/mah5akmehr">My instagram</a></li>
