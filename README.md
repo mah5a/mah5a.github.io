@@ -43,7 +43,7 @@
 </head>
 <body>
   <h1>Welcome to my page!</h1>
-  <img src="./images/selfie1.jpg" width="300px">
+  <img src="./images/selfie.jpg" width="300px">
   <h2>About me</h2>
   <p>My name is Mahsa. I own a Ph.D. in Data Science. I'm interested in all things Python & Machine Learning!</p>
   <p>Here is a link to my linkedin: <a href="https://www.linkedin.com/in/zahrakaramimehr/">LinkedIn</a></p>
