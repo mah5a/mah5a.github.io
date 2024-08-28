@@ -68,7 +68,7 @@
     <li class="social linkedin"><b>LinkedIn: </b><a href="https://www.linkedin.com/in/zahrakaramimehr/">My linkedIn</a></li>
   </ul>
   <h2>Photos</h2>
-  Here are a few photos from a trip to italy I took last year
+  Here are a few photos from a trip to Europe I took 2 years ago:
   <div class="row">
     <div class="column">
       <img src="images/Bologna.jpg" alt="Santuario Madonna di San Luca,Bologna,Italy" style="height:100%">
