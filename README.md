@@ -83,198 +83,55 @@ Passionate About: Python, Machine Learning, and the Power of Data</p>
   <div></div>
   <h2> Table </h2>
   My universty  stats :
-  <br></br>
-  <table class="hockey-stats">
-      <thead>
-          <tr>
-              <th class="season" data-sort="">S</th>
-              <th class="team" data-sort="team">Team</th>
-              <th class="league" data-sort="league">League</th>
-              <th class="regular gp" data-sort="gp">GP</th>
-              <th class="regular g" data-sort="g">G</th>
-              <th class="regular a" data-sort="a">A</th>
-              <th class="regular tp" data-sort="tp">TP</th>
-              <th class="regular pim" data-sort="pim">PIM</th>
-              <th class="regular pm" data-sort="pm">+/-</th>
-              <th class="separator">&nbsp;</th>
-              <th class="postseason">POST</th>
-              <th class="postseason gp" data-sort="playoffs-gp">GP</th>
-              <th class="postseason g" data-sort="playoffs-g">G</th>
-              <th class="postseason a" data-sort="playoffs-a">A</th>
-              <th class="postseason tp" data-sort="playoffs-tp">TP</th>
-              <th class="postseason pim" data-sort="playoffs-pim">PIM</th>
-              <th class="postseason pm" data-sort="playoffs-pm">+/-</th>
-          </tr>
-      </thead>
-      <tbody>
-          <tr class="team-continent-NA ">
-              <td class="season sorted">
-                  2014-15
-              </td>
-              <td class="team">
-                  <i><img src="images/flag.png"></i>
-                  <span class="txt-blue">
-                      <a href="https://www.eliteprospects.com/team/10263/mit-mass.-inst.-of-tech./2014-2015?tab=stats"> MIT (Mass. Inst. of Tech.) </a>
-                  </span>
-              </td>
-              <td class="league"> <a href="https://www.eliteprospects.com/league/acha-ii/stats/2014-2015"> ACHA II </a> </td>
-              <td class="regular gp">17</td>
-              <td class="regular g">3</td>
-              <td class="regular a">9</td>
-              <td class="regular tp">12</td>
-              <td class="regular pim">20</td>
-              <td class="regular pm"></td>
-              <td class="separator"> | </td>
-              <td class="postseason">
-                  <a href="https://www.eliteprospects.com/league/acha-ii/stats/2014-2015"> </a>
-              </td>
-              <td class="postseason gp">
-              </td>
-              <td class="postseason g">
-              </td>
-              <td class="postseason a">
-              </td>
-              <td class="postseason tp">
-              </td>
-              <td class="postseason pim">
-              </td>
-              <td class="postseason pm">
-              </td>
-          </tr>
-          <tr class="team-continent-NA ">
-              <td class="season sorted">
-                  2015-16
-              </td>
-              <td class="team">
-                  <i><img src="images/flag.png"></i>
-                  <span class="txt-blue">
-                      <a href="https://www.eliteprospects.com/team/10263/mit-mass.-inst.-of-tech./2015-2016?tab=stats"> MIT (Mass. Inst. of Tech.) </a>
-                  </span>
-              </td>
-              <td class="league"> <a href="https://www.eliteprospects.com/league/acha-ii/stats/2015-2016"> ACHA II </a> </td>
-              <td class="regular gp">9</td>
-              <td class="regular g">1</td>
-              <td class="regular a">1</td>
-              <td class="regular tp">2</td>
-              <td class="regular pim">2</td>
-              <td class="regular pm"></td>
-              <td class="separator"> | </td>
-              <td class="postseason">
-                  <a href="https://www.eliteprospects.com/league/acha-ii/stats/2015-2016"> </a>
-              </td>
-              <td class="postseason gp">
-              </td>
-              <td class="postseason g">
-              </td>
-              <td class="postseason a">
-              </td>
-              <td class="postseason tp">
-              </td>
-              <td class="postseason pim">
-              </td>
-              <td class="postseason pm">
-              </td>
-          </tr>
-          <tr class="team-continent-NA ">
-              <td class="season sorted">
-                  2016-17
-              </td>
-              <td class="team">
-                  <i><img src="images/flag.png"></i>
-                  <span class="txt-blue">
-                      <a href="https://www.eliteprospects.com/team/10263/mit-mass.-inst.-of-tech./2016-2017?tab=stats"> MIT (Mass. Inst. of Tech.) </a>
-                  </span>
-              </td>
-              <td class="league"> <a href="https://www.eliteprospects.com/league/acha-ii/stats/2016-2017"> ACHA II </a> </td>
-              <td class="regular gp">12</td>
-              <td class="regular g">5</td>
-              <td class="regular a">5</td>
-              <td class="regular tp">10</td>
-              <td class="regular pim">8</td>
-              <td class="regular pm">0</td>
-              <td class="separator"> | </td>
-              <td class="postseason">
-              </td>
-              <td class="postseason gp">
-              </td>
-              <td class="postseason g">
-              </td>
-              <td class="postseason a">
-              </td>
-              <td class="postseason tp">
-              </td>
-              <td class="postseason pim">
-              </td>
-              <td class="postseason pm">
-              </td>
-          </tr>
-          <tr class="team-continent-EU ">
-              <td class="season sorted">
-                  2017-18
-              </td>
-              <td class="team">
-                  Did not play
-              </td>
-              <td class="league"> <a href="https://www.eliteprospects.com/stats"> </a> </td>
-              <td class="regular gp"></td>
-              <td class="regular g"></td>
-              <td class="regular a"></td>
-              <td class="regular tp"></td>
-              <td class="regular pim"></td>
-              <td class="regular pm"></td>
-              <td class="separator"> | </td>
-              <td class="postseason">
-                  <a href="https://www.eliteprospects.com/stats"> </a>
-              </td>
-              <td class="postseason gp">
-              </td>
-              <td class="postseason g">
-              </td>
-              <td class="postseason a">
-              </td>
-              <td class="postseason tp">
-              </td>
-              <td class="postseason pim">
-              </td>
-              <td class="postseason pm">
-              </td>
-          </tr>
-          <tr class="team-continent-NA ">
-              <td class="season sorted">
-                  2018-19
-              </td>
-              <td class="team">
-                  <i><img src="images/flag.png"></i>
-                  <span class="txt-blue">
-                      <a href="https://www.eliteprospects.com/team/10263/mit-mass.-inst.-of-tech./2018-2019?tab=stats"> MIT (Mass. Inst. of Tech.) </a>
-                  </span>
-              </td>
-              <td class="league"> <a href="https://www.eliteprospects.com/league/acha-iii/stats/2018-2019"> ACHA III </a> </td>
-              <td class="regular gp">8</td>
-              <td class="regular g">5</td>
-              <td class="regular a">10</td>
-              <td class="regular tp">15</td>
-              <td class="regular pim">8</td>
-              <td class="regular pm"></td>
-              <td class="separator"> | </td>
-              <td class="postseason">
-                  <a href="https://www.eliteprospects.com/league/acha-iii/stats/2018-2019"> </a>
-              </td>
-              <td class="postseason gp">
-              </td>
-              <td class="postseason g">
-              </td>
-              <td class="postseason a">
-              </td>
-              <td class="postseason tp">
-              </td>
-              <td class="postseason pim">
-              </td>
-              <td class="postseason pm">
-              </td>
-          </tr>
-      </tbody>
-  </table>
+  <br>
+  <table class="world-cup-stats">
+  <thead>
+      <tr>
+          <th class="year" data-sort="">Year</th>
+          <th class="team" data-sort="team">Winner</th>
+          <th class="team" data-sort="team">Runner-up</th>
+          <th class="score" data-sort="score">Final Score</th>
+          <th class="location" data-sort="location">Host Country</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr class="team-world-cup">
+          <td class="year sorted">2022</td>
+          <td class="team">Argentina</td>
+          <td class="team">France</td>
+          <td class="score">3-3 (4-2 pens)</td>
+          <td class="location">Qatar</td>
+      </tr>
+      <tr class="team-world-cup">
+          <td class="year sorted">2018</td>
+          <td class="team">France</td>
+          <td class="team">Croatia</td>
+          <td class="score">4-2</td>
+          <td class="location">Russia</td>
+      </tr>
+      <tr class="team-world-cup">
+          <td class="year sorted">2014</td>
+          <td class="team">Germany</td>
+          <td class="team">Argentina</td>
+          <td class="score">1-0</td>
+          <td class="location">Brazil</td>
+      </tr>
+      <tr class="team-world-cup">
+          <td class="year sorted">2010</td>
+          <td class="team">Spain</td>
+          <td class="team">Netherlands</td>
+          <td class="score">1-0</td>
+          <td class="location">South Africa</td>
+      </tr>
+      <tr class="team-world-cup">
+          <td class="year sorted">2006</td>
+          <td class="team">Italy</td>
+          <td class="team">France</td>
+          <td class="score">1-1 (5-3 pens)</td>
+          <td class="location">Germany</td>
+      </tr>
+  </tbody>
+</table>
   <h2>Mystery Message Challenge!</h2>
   <p>If you scrape the links below grabbing the &lt;p&gt; tag with id="secret-word", you'll discover a secret message :)</p>
   <div width="50%">
