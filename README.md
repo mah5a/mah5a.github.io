@@ -1,5 +1,5 @@
 <head>
-  <title>Mahsa's Page</title>
+  <title>My Page</title>
   <style>
   table {
     border-collapse: collapse;
