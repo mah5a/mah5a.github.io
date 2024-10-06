@@ -71,7 +71,7 @@ Passionate About: Python, Machine Learning, and the Power of Data</p>
   Here are a few photos from a trip to Europe I took 2 years ago:
   <div class="row">
     <div class="column">
-      <img src="images/Bologna.jpg" alt="Santuario Madonna di San Luca,Bologna,Italy" style="height:100%">
+      <img src="https://mah5a.github.io/images/Bologna.jpg" alt="Santuario Madonna di San Luca,Bologna,Italy" style="height:100%">
     </div>
     <div class="column">
       <img src="images/vienna.jpg" alt="The Austrian Parliament,Vienna, Austia" style="height:100%">
