@@ -81,10 +81,10 @@ Passionate About: Python, Machine Learning, and the Power of Data</p>
     </div>
   </div>
   <div></div>
-  <h2> Table </h2>
-  My universty  stats :
+  <h2> Sport </h2>
+  
   <br>
-  <table class="world-cup-stats">
+<!--   <table class="world-cup-stats">
   <thead>
       <tr>
           <th class="year" data-sort="">Year</th>
@@ -131,7 +131,122 @@ Passionate About: Python, Machine Learning, and the Power of Data</p>
           <td class="location">Germany</td>
       </tr>
   </tbody>
+</table> -->
+<table border="1">
+  <thead>
+    <tr>
+      <th>Year</th>
+      <th>Country</th>
+      <th>Event</th>
+      <th>Gold</th>
+      <th>Silver</th>
+      <th>Bronze</th>
+      <th>Total Medals</th>
+      <th>+/-</th>
+      <th></th>
+      <th>POST</th>
+      <th>GP</th>
+      <th>G</th>
+      <th>A</th>
+      <th>TP</th>
+      <th>PIM</th>
+      <th>+/-</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2020</td>
+      <td>United States</td>
+      <td>Summer Olympics</td>
+      <td>39</td>
+      <td>41</td>
+      <td>33</td>
+      <td>113</td>
+      <td>+1</td>
+      <td></td>
+      <td>1st</td>
+      <td>--</td>
+      <td>--</td>
+      <td>--</td>
+      <td>--</td>
+      <td>--</td>
+      <td>+1</td>
+    </tr>
+    <tr>
+      <td>2016</td>
+      <td>United States</td>
+      <td>Summer Olympics</td>
+      <td>46</td>
+      <td>37</td>
+      <td>38</td>
+      <td>121</td>
+      <td>+1</td>
+      <td></td>
+      <td>1st</td>
+      <td>--</td>
+      <td>--</td>
+      <td>--</td>
+      <td>--</td>
+      <td>--</td>
+      <td>+1</td>
+    </tr>
+    <tr>
+      <td>2012</td>
+      <td>United States</td>
+      <td>Summer Olympics</td>
+      <td>46</td>
+      <td>28</td>
+      <td>29</td>
+      <td>103</td>
+      <td>+1</td>
+      <td></td>
+      <td>1st</td>
+      <td>--</td>
+      <td>--</td>
+      <td>--</td>
+      <td>--</td>
+      <td>--</td>
+      <td>+1</td>
+    </tr>
+    <tr>
+      <td>2008</td>
+      <td>China</td>
+      <td>Summer Olympics</td>
+      <td>48</td>
+      <td>22</td>
+      <td>30</td>
+      <td>100</td>
+      <td>+1</td>
+      <td></td>
+      <td>1st</td>
+      <td>--</td>
+      <td>--</td>
+      <td>--</td>
+      <td>--</td>
+      <td>--</td>
+      <td>+1</td>
+    </tr>
+    <tr>
+      <td>2004</td>
+      <td>United States</td>
+      <td>Summer Olympics</td>
+      <td>36</td>
+      <td>39</td>
+      <td>26</td>
+      <td>101</td>
+      <td>+1</td>
+      <td></td>
+      <td>1st</td>
+      <td>--</td>
+      <td>--</td>
+      <td>--</td>
+      <td>--</td>
+      <td>--</td>
+      <td>+1</td>
+    </tr>
+  </tbody>
 </table>
+
   <h2>Mystery Message Challenge!</h2>
   <p>If you scrape the links below grabbing the &lt;p&gt; tag with id="secret-word", you'll discover a secret message :)</p>
   <div width="50%">
