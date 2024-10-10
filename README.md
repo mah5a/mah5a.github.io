@@ -81,7 +81,7 @@ Passionate About: Python, Machine Learning, and the Power of Data</p>
     </div>
   </div>
   <div></div>
-  <h2> Sport </h2>
+  <h2> Sport2 </h2>
   
   <br>
 <!--   <table class="world-cup-stats">
