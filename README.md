@@ -63,7 +63,7 @@ Passionate About: Python, Machine Learning, and the Power of Data</p>
     I am not really active on social media but in case you want to take a look at them:
   <br/>
   <ul class="socials">
-    <li class="social instagram"><b>Instagram: </b><a href="https://www.instagram.com/mah5akmehr">My instagram</a></li>
+    <li class="social instagram"><a href="https://www.instagram.com/mah5akmehr">My instagram</a></li>
     <li class="social twitter"><b>Twitter: </b><a href="https://x.com/MKaramimehr">My twitter</a></li>
     <li class="social linkedin"><b>LinkedIn: </b><a href="https://www.linkedin.com/in/zahrakaramimehr/">My linkedIn</a></li>
   </ul>
